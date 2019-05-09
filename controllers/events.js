@@ -1,7 +1,7 @@
 const Event = require("../models/events");
 const User = require("../models/users");
 const googleMapsClient = require("@google/maps").createClient({
-  key: "AIzaSyAQsHfShuNXZCuQxQOSctFhjiiyM9pHX-0"
+  key: "AIzaSyBbcC3bMFjuryUo-PkKcNze8g_kD-TuSm4"
 });
 
 module.exports = {
